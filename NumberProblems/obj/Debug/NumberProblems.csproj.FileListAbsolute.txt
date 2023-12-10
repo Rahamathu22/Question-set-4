@@ -1,0 +1,6 @@
+c:\users\rahamath\documents\visual studio 2012\Projects\NumberProblems\NumberProblems\bin\Debug\NumberProblems.exe.config
+c:\users\rahamath\documents\visual studio 2012\Projects\NumberProblems\NumberProblems\bin\Debug\NumberProblems.exe
+c:\users\rahamath\documents\visual studio 2012\Projects\NumberProblems\NumberProblems\bin\Debug\NumberProblems.pdb
+c:\users\rahamath\documents\visual studio 2012\Projects\NumberProblems\NumberProblems\obj\Debug\NumberProblems.csprojResolveAssemblyReference.cache
+c:\users\rahamath\documents\visual studio 2012\Projects\NumberProblems\NumberProblems\obj\Debug\NumberProblems.exe
+c:\users\rahamath\documents\visual studio 2012\Projects\NumberProblems\NumberProblems\obj\Debug\NumberProblems.pdb
